@@ -1,0 +1,1 @@
+{"1010": {"Day1": {"Barfiks": "Say\u0131 Yok", "Dead Lift": "5x10", "T Bar Row": "5x10"}}, "3456": {"Day3": {"Barfiks": "Say\u0131 Yok", "Dead Lift": "5x10", "T Bar Row": "5x10"}}, "9876": {"Day1": {"Barfiks": "Say\u0131 Yok", "Dead Lift": "5x20", "T Bar Row": "4x20"}}}

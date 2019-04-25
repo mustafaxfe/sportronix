@@ -1,0 +1,1 @@
+{"1010": {"Day1": {"Hammer Curl": "3x10", "Babell Curl": "2x20", "Incline Dumbell": "2x20"}}, "3456": {"Day2": {"Hammer Curl": "2x10", "Babell Curl": "3x20", "Incline Dumbell": "3x20"}}, "9876": {"Day3": {"Hammer Curl": "2x10", "Babell Curl": "3x20", "Incline Dumbell": "3x20"}}}

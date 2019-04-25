@@ -1,0 +1,1 @@
+{"1010": {"Day3": {"2li 3l\u00fc yumruklar": "2x3"}}, "3456": {"Day1": {"2li 3li yumruklar": "2x3"}}, "9876": {"Day1": {"2li 3l\u00fc yumruklar": "2x3"}}}

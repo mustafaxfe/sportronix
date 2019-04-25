@@ -1,0 +1,1 @@
+{"1010": {"Day2": {"Dips": "3x10", "Skull Crossers": "3x20"}}, "3456": {"Day2": {"Dips": "3x20", "Skull Crossers": "2x20"}}, "9876": {"Day2": {"Dips": "3x10", "Skull Crossers": "3x10"}}}

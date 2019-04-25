@@ -1,0 +1,1 @@
+{"1010": {"Day2": {"Squat": "5x15", "Lab execution": "5x15"}}, "3456": {"Day1": {"Squat": "5x15", "Lab execution": "5x15"}}, "9876": {"Day2": {"Squat": "5x15", "Lab execution": "5x15"}}}
